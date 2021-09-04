@@ -1,0 +1,6 @@
+main: me.faiz.example.Main
+name: paper_1.17.1_example
+version: 0.0.1
+
+depend:
+  - Kotlin
